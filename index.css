@@ -1,0 +1,14 @@
+.paragrafo1{font-size: 35px; text-align: justify;}
+.lista{font-size: 25px;}
+.lista li{padding: 10px;}
+.paises{font-size: 20px;}
+.link:hover{background-color: dodgerblue }
+.trabalho{background-color: rgba(55, 43, 229, 0.158);}
+.titulo{font: size 50px;text-align: center; background-color: rgba(26, 76, 109, 0.29);}
+.Italia{border-radius: 15%; }
+.paris{border-radius: 15%; }
+.suiça{border-radius: 15%; }
+.linha1{background-color: rgba(0, 128, 0, 0.692);}
+.linha2{background-color:rgba(255, 0, 0, 0.737)}
+.linha3{background-color: rgba(0, 0, 255, 0.523);}
+.para1{font-size: 20px;}
